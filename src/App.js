@@ -22,8 +22,7 @@ function App() {
     <div className='App w-100 h-100   '>
        {isLoading?(<Logo />):(<Home/>)}
  
-         <Logo />
-        <Home /> 
+        
     </div>
   )
 }
