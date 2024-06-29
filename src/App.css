@@ -282,7 +282,7 @@ span{
   justify-content: center;
   position: relative;
   font-size: 4.5rem;
-  font-family: cursive;
+  font-family: normal;
   font-weight: 300;
 
  
@@ -356,7 +356,7 @@ span{
       transform:scale(0.59) translateZ(-2px)rotateY(15deg)rotateX(10deg)!important;
     }
     .wallheader{
-      font-family: cursive;
+      font-family: normal;
       font-size: 20px;
       width: 4rem;
       position: absolute;
