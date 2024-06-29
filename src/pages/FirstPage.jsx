@@ -102,7 +102,7 @@ const hiremehandler=()=>{
            
          </div>
          <div className="watsapp rounded-2 bg-light"style={{width:"2.8rem",height:"2.8rem"}} >
-         <a target='_blank'rel="noreferrer" aria-label="Chat on WhatsApp" href="https://wa.me/917337279673">
+         <a target='_blank'rel="noreferrer" aria-label="Chat on WhatsApp" href="https://wa.me/917815884891">
          <img src={watsaap1} className='w-100 h-100' alt=""    /></a>
           
            
