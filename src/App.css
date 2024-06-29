@@ -916,7 +916,8 @@ span{
   transform: translateZ(-5px)rotateY(15deg)rotateX(10deg);
 }
 .wallheader{
-  font-family: cursive;
+
+  
  
   position: absolute;
    top: 3%;
